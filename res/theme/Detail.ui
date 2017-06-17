@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Dialog" name="Detail" cloudDestinationProperty="Detail" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="4" flowLayoutValign="4" title="Details" >
+  <component type="Container" name="Container" cloudDestinationProperty="Container" scrollableY="true" layout="TableLayout" tableLayoutRows="6" tableLayoutColumns="2" >
+    <component type="Label" name="Label" cloudDestinationProperty="Label" text="Description" >
+    </component>
+    <component type="SpanLabel" name="descrL" cloudDestinationProperty="SpanLabel" >
+      <custom name="text" type="java.lang.String" value="Description" />
+    </component>
+    <component type="Label" name="Label2" cloudDestinationProperty="Label2" text="Amount" >
+    </component>
+    <component type="Label" name="amtL" cloudDestinationProperty="Label3" text="Label" >
+    </component>
+    <component type="Label" name="Label4" cloudDestinationProperty="Label4" text="Balance" >
+    </component>
+    <component type="Label" name="balL" cloudDestinationProperty="Label5" text="Label" >
+    </component>
+    <component type="Label" name="Label6" cloudDestinationProperty="Label6" text="Date" >
+    </component>
+    <component type="Label" name="dateL" cloudDestinationProperty="Label7" text="Label" >
+    </component>
+    <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="Type" >
+    </component>
+    <component type="Label" name="typeL" cloudDestinationProperty="typeL" text="Label" >
+    </component>
+  </component>
+</component>

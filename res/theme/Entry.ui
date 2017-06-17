@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Dialog" name="Entry" cloudDestinationProperty="Entry" scrollableY="false" layout="BorderLayout" borderLayoutAbsoluteCenter="false" title="Add New Record" >
+  <component type="Container" name="Container" cloudDestinationProperty="Container" layout="BoxLayout" boxLayoutAxis="Y" >
+    <layoutConstraint value="Center" />
+    <component type="Container" name="Container1" cloudDestinationProperty="Container1" scrollableY="true" layout="TableLayout" tableLayoutRows="7" tableLayoutColumns="2" >
+      <component type="Label" name="Label" cloudDestinationProperty="Label" text="Amount:" >
+      </component>
+      <component type="TextField" name="amountF" cloudBoundProperty="text" cloudDestinationProperty="TextField" text="0.00" constraint="5" maxSize="12" >
+        <layoutConstraint row="-1" column="-1" height="-1" width="-1" align="-1" spanHorizontal="1" valign="-1" spanVertical="1" />
+      </component>
+      <component type="Label" name="Label4" cloudDestinationProperty="Label4" text="Type:" >
+      </component>
+      <component type="ComboBox" name="typeF" cloudDestinationProperty="ComboBox" >
+        <stringItem value="Expenditure" />
+        <stringItem value="Income" />
+      </component>
+      <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="Ref ID:" >
+      </component>
+      <component type="TextField" name="refF" cloudBoundProperty="text" cloudDestinationProperty="TextField1" text="" maxSize="10" >
+      </component>
+      <component type="Label" name="Label2" cloudDestinationProperty="Label2" text="Description:" >
+      </component>
+      <component type="TextField" name="descF" cloudBoundProperty="text" cloudDestinationProperty="TextField2" text="" maxSize="20" >
+      </component>
+      <component type="Label" name="Label3" cloudDestinationProperty="Label3" text="Date and Time:" >
+      </component>
+      <component type="DateTimeSpinner" name="DateTimeSpinnerF" cloudDestinationProperty="DateTimeSpinner" focusable="false" rtl="false" >
+        <custom name="minuteStep" type="java.lang.Integer" value="1" />
+        <custom name="markToday" type="java.lang.Boolean" value="true" />
+        <custom name="includeYear" type="java.lang.Boolean" value="false" />
+      </component>
+      <component type="Label" name="Label6" cloudDestinationProperty="Label6" text="" >
+      </component>
+      <component type="Button" name="Button" cloudDestinationProperty="Button" uiid="GreenButton" text="Execute" icon="pass.png" >
+      </component>
+    </component>
+  </component>
+</component>

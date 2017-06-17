@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="EmptyForm" cloudDestinationProperty="EmptyForm" scrollableY="false" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="4" flowLayoutValign="4" nextForm="Login" >
+  <component type="Label" name="Label" cloudDestinationProperty="Label" text="Record Deleted !!!" >
+  </component>
+<command name="About" icon="infooo.png" id="19" action="About" backCommand="false" /><command name="Exit" icon="Power-01.png" id="16" action="$Exit" backCommand="false" /><command name="Login" icon="Login1.png" id="15" action="Login" backCommand="false" /><command name="Create" icon="Add-01.png" id="14" action="Main" backCommand="false" /></component>

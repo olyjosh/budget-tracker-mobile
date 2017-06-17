@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Dialog" name="Changepass" cloudDestinationProperty="Changepass" layout="BorderLayout" borderLayoutAbsoluteCenter="false" title="Change password" >
+  <component type="Container" name="Container" cloudDestinationProperty="Container" layout="BoxLayout" boxLayoutAxis="Y" >
+    <layoutConstraint value="Center" />
+    <component type="Label" name="Label" cloudDestinationProperty="Label" text="Old Password" >
+    </component>
+    <component type="TextField" name="oldPass" cloudBoundProperty="text" cloudDestinationProperty="TextField" text="" >
+    </component>
+    <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="New Password" >
+    </component>
+    <component type="TextField" name="newPass" cloudBoundProperty="text" cloudDestinationProperty="TextField1" text="" >
+    </component>
+    <component type="Label" name="Label2" cloudDestinationProperty="Label2" text="Re-type Password" >
+    </component>
+    <component type="TextField" name="retypePass" cloudBoundProperty="text" cloudDestinationProperty="TextField2" text="" >
+    </component>
+    <component type="Container" name="Container2" cloudDestinationProperty="Container2" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="4" flowLayoutValign="0" >
+      <component type="Label" name="Label3" cloudDestinationProperty="Label3" uiid="smallRedLabel" text="Password does not match" >
+      </component>
+    </component>
+    <component type="Container" name="Container1" cloudDestinationProperty="Container1" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="4" flowLayoutValign="0" >
+      <component type="Button" name="Button" cloudDestinationProperty="Button" text="Change" icon="pass.png" >
+      </component>
+      <component type="Button" name="Button1" cloudDestinationProperty="Button1" uiid="Followers" text="Cancel" icon="failed1.png" >
+      </component>
+    </component>
+  </component>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="ChartForm" cloudDestinationProperty="ChartForm" layout="BorderLayout" borderLayoutAbsoluteCenter="false" title="Chart" >
+  <component type="Container" name="Container" cloudDestinationProperty="Container" layout="BorderLayout" borderLayoutAbsoluteCenter="false" >
+    <layoutConstraint value="Center" />
+    <component type="SpanLabel" name="SpanLabel" cloudDestinationProperty="SpanLabel" >
+      <layoutConstraint value="North" />
+    </component>
+  </component>
+<command name="About" icon="infooo.png" id="13" action="About" backCommand="true" /></component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Home" cloudDestinationProperty="Home" layout="BorderLayout" borderLayoutAbsoluteCenter="false" title="Records" >
+  <component type="Container" name="Container" cloudDestinationProperty="Container" scrollableX="true" scrollableY="true" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="1" flowLayoutValign="0" >
+    <layoutConstraint value="Center" />
+  </component>
+  <component type="Container" name="Container1" cloudDestinationProperty="Container1" >
+    <layoutConstraint value="South" />
+    <component type="Label" name="Label" cloudDestinationProperty="Label" text="" >
+    </component>
+    <component type="Button" name="Button" cloudDestinationProperty="Button" text="Check balance" >
+    </component>
+  </component>
+<command name="Add Transaction" icon="Add-01.png" id="8" action="Entry" backCommand="false" /><command name="Charts" icon="Colourful_Chart.png" id="9" action="ChartForm" backCommand="false" /><command name="Change Password" icon="password.png" id="4" action="Changepass" backCommand="false" /><command name="Create  New Records" icon="Add-01.png" id="3" action="Main" backCommand="false" /><command name="Delete This Record" icon="failed1.png" id="5" action="" backCommand="false" /><command name="About" icon="infooo.png" id="18" action="About" backCommand="false" /><command name="Exit" icon="Power-01.png" id="6" action="$Exit" backCommand="false" /></component>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="6" useXmlUI="false">
+    <image name=".borderBottom_1.png" type="multi"  />
+    <image name=".borderBottomL_1.png" type="multi"  />
+    <image name=".borderBottomR_1.png" type="multi"  />
+    <image name=".borderCenter_1.png" type="multi"  />
+    <image name=".borderLeft_1.png" type="multi"  />
+    <image name=".borderRight_1.png" type="multi"  />
+    <image name=".borderTop_1.png" type="multi"  />
+    <image name=".borderTopL_1.png" type="multi"  />
+    <image name=".borderTopR_1.png" type="multi"  />
+    <ui name="About" />
+    <image name="Add-01.png"  />
+    <image name="back-btn-big@2x_center.png" type="multi"  />
+    <image name="back-btn-big@2x_left.png" type="multi"  />
+    <image name="back-btn-big@2x_right.png" type="multi"  />
+    <image name="back.png"  />
+    <image name="back_center_pressed.png" type="multi"  />
+    <image name="back_left_pressed.png" type="multi"  />
+    <image name="back_right_pressed.png" type="multi"  />
+    <image name="bg-gunmetal@2x_tile.png" type="multi"  />
+    <image name="bg-mesh@2x_tile.jpg"  />
+    <image name="Button.borderBottom_2.png" type="multi"  />
+    <image name="Button.borderBottomL_2.png" type="multi"  />
+    <image name="Button.borderBottomR_2.png" type="multi"  />
+    <image name="Button.borderCenter_2.png" type="multi"  />
+    <image name="Button.borderLeft_2.png" type="multi"  />
+    <image name="Button.borderRight_2.png" type="multi"  />
+    <image name="Button.borderTop_2.png" type="multi"  />
+    <image name="Button.borderTopL_2.png" type="multi"  />
+    <image name="Button.borderTopR_2.png" type="multi"  />
+    <image name="Button.dis#borderBottom_1.png" type="multi"  />
+    <image name="Button.dis#borderBottomL_1.png" type="multi"  />
+    <image name="Button.dis#borderBottomR_1.png" type="multi"  />
+    <image name="Button.dis#borderCenter_1.png" type="multi"  />
+    <image name="Button.dis#borderLeft_1.png" type="multi"  />
+    <image name="Button.dis#borderRight_1.png" type="multi"  />
+    <image name="Button.dis#borderTop_1.png" type="multi"  />
+    <image name="Button.dis#borderTopL_1.png" type="multi"  />
+    <image name="Button.dis#borderTopR_1.png" type="multi"  />
+    <image name="Button.press#borderBottom_1.png" type="multi"  />
+    <image name="Button.press#borderBottomL_1.png" type="multi"  />
+    <image name="Button.press#borderBottomR_1.png" type="multi"  />
+    <image name="Button.press#borderCenter_1.png" type="multi"  />
+    <image name="Button.press#borderLeft_1.png" type="multi"  />
+    <image name="Button.press#borderRight_1.png" type="multi"  />
+    <image name="Button.press#borderTop_1.png" type="multi"  />
+    <image name="Button.press#borderTopL_1.png" type="multi"  />
+    <image name="Button.press#borderTopR_1.png" type="multi"  />
+    <image name="button_left_pressed.png" type="multi"  />
+    <ui name="Changepass" />
+    <ui name="ChartForm" />
+    <image name="Colourful_Chart.png"  />
+    <image name="DataSheet.borderBottom_1.png" type="multi"  />
+    <image name="DataSheet.borderBottomL_1.png" type="multi"  />
+    <image name="DataSheet.borderBottomR_1.png" type="multi"  />
+    <image name="DataSheet.borderCenter_1.png" type="multi"  />
+    <image name="DataSheet.borderLeft_1.png" type="multi"  />
+    <image name="DataSheet.borderRight_1.png" type="multi"  />
+    <image name="DataSheet.borderTop_1.png" type="multi"  />
+    <image name="DataSheet.borderTopL_1.png" type="multi"  />
+    <image name="DataSheet.borderTopR_1.png" type="multi"  />
+    <ui name="Detail" />
+    <image name="details-separator@2x.png" type="multi"  />
+    <ui name="EmptyForm" />
+    <ui name="Entry" />
+    <image name="evenRow.borderBottom_2.png" type="multi"  />
+    <image name="evenRow.borderBottomL_2.png" type="multi"  />
+    <image name="evenRow.borderBottomR_2.png" type="multi"  />
+    <image name="evenRow.borderCenter_2.png" type="multi"  />
+    <image name="evenRow.borderLeft_2.png" type="multi"  />
+    <image name="evenRow.borderRight_2.png" type="multi"  />
+    <image name="evenRow.borderTop_2.png" type="multi"  />
+    <image name="evenRow.borderTopL_2.png" type="multi"  />
+    <image name="evenRow.borderTopR_2.png" type="multi"  />
+    <image name="failed1.png"  />
+    <image name="Followers.borderBottom_1.png" type="multi"  />
+    <image name="Followers.borderBottomL_1.png" type="multi"  />
+    <image name="Followers.borderBottomR_1.png" type="multi"  />
+    <image name="Followers.borderCenter_1.png" type="multi"  />
+    <image name="Followers.borderLeft_1.png" type="multi"  />
+    <image name="Followers.borderRight_1.png" type="multi"  />
+    <image name="Followers.borderTop_1.png" type="multi"  />
+    <image name="Followers.borderTopL_1.png" type="multi"  />
+    <image name="Followers.borderTopR_1.png" type="multi"  />
+    <image name="Following.borderBottom_1.png" type="multi"  />
+    <image name="Following.borderBottomL_1.png" type="multi"  />
+    <image name="Following.borderBottomR_1.png" type="multi"  />
+    <image name="Following.borderCenter_1.png" type="multi"  />
+    <image name="Following.borderLeft_1.png" type="multi"  />
+    <image name="Following.borderRight_1.png" type="multi"  />
+    <image name="Following.borderTop_1.png" type="multi"  />
+    <image name="Following.borderTopL_1.png" type="multi"  />
+    <image name="Following.borderTopR_1.png" type="multi"  />
+    <image name="GreenButton.borderBottom_1.png" type="multi"  />
+    <image name="GreenButton.borderBottomL_1.png" type="multi"  />
+    <image name="GreenButton.borderBottomR_1.png" type="multi"  />
+    <image name="GreenButton.borderCenter_1.png" type="multi"  />
+    <image name="GreenButton.borderLeft_1.png" type="multi"  />
+    <image name="GreenButton.borderRight_1.png" type="multi"  />
+    <image name="GreenButton.borderTop_1.png" type="multi"  />
+    <image name="GreenButton.borderTopL_1.png" type="multi"  />
+    <image name="GreenButton.borderTopR_1.png" type="multi"  />
+    <image name="GreenButton.press#borderBottom_1.png" type="multi"  />
+    <image name="GreenButton.press#borderBottomL_1.png" type="multi"  />
+    <image name="GreenButton.press#borderBottomR_1.png" type="multi"  />
+    <image name="GreenButton.press#borderCenter_1.png" type="multi"  />
+    <image name="GreenButton.press#borderLeft_1.png" type="multi"  />
+    <image name="GreenButton.press#borderRight_1.png" type="multi"  />
+    <image name="GreenButton.press#borderTop_1.png" type="multi"  />
+    <image name="GreenButton.press#borderTopL_1.png" type="multi"  />
+    <image name="GreenButton.press#borderTopR_1.png" type="multi"  />
+    <ui name="Home" />
+    <image name="infoonpoint.png"  />
+    <image name="infooo.png"  />
+    <image name="Login1.png"  />
+    <ui name="LoginForm" />
+    <ui name="Main" />
+    <image name="mask.png" type="multi"  />
+    <image name="maskb.png 3" type="multi"  />
+    <image name="MultiButton.borderBottom_2.png" type="multi"  />
+    <image name="MultiButton.borderBottomL_2.png" type="multi"  />
+    <image name="MultiButton.borderBottomR_2.png" type="multi"  />
+    <image name="MultiButton.borderCenter_2.png" type="multi"  />
+    <image name="MultiButton.borderLeft_2.png" type="multi"  />
+    <image name="MultiButton.borderRight_2.png" type="multi"  />
+    <image name="MultiButton.borderTop_2.png" type="multi"  />
+    <image name="MultiButton.borderTopL_2.png" type="multi"  />
+    <image name="MultiButton.borderTopR_2.png" type="multi"  />
+    <image name="nav-bar@2x_button_center.png" type="multi"  />
+    <image name="nav-bar@2x_button_left.png" type="multi"  />
+    <image name="nav-bar@2x_button_right.png" type="multi"  />
+    <image name="oddRow.borderBottom_1.png" type="multi"  />
+    <image name="oddRow.borderBottomL_1.png" type="multi"  />
+    <image name="oddRow.borderBottomR_1.png" type="multi"  />
+    <image name="oddRow.borderCenter_1.png" type="multi"  />
+    <image name="oddRow.borderLeft_1.png" type="multi"  />
+    <image name="oddRow.borderRight_1.png" type="multi"  />
+    <image name="oddRow.borderTop_1.png" type="multi"  />
+    <image name="oddRow.borderTopL_1.png" type="multi"  />
+    <image name="oddRow.borderTopR_1.png" type="multi"  />
+    <image name="pass.png"  />
+    <image name="password.png"  />
+    <image name="Power-01.png"  />
+    <image name="TableTitleLabel.borderBottom_2.png" type="multi"  />
+    <image name="TableTitleLabel.borderBottomL_2.png" type="multi"  />
+    <image name="TableTitleLabel.borderBottomR_2.png" type="multi"  />
+    <image name="TableTitleLabel.borderCenter_2.png" type="multi"  />
+    <image name="TableTitleLabel.borderLeft_2.png" type="multi"  />
+    <image name="TableTitleLabel.borderRight_2.png" type="multi"  />
+    <image name="TableTitleLabel.borderTop_2.png" type="multi"  />
+    <image name="TableTitleLabel.borderTopL_2.png" type="multi"  />
+    <image name="TableTitleLabel.borderTopR_2.png" type="multi"  />
+    <image name="TextField.borderBottom_1.png" type="multi"  />
+    <image name="TextField.borderBottomL_1.png" type="multi"  />
+    <image name="TextField.borderBottomR_1.png" type="multi"  />
+    <image name="TextField.borderCenter_1.png" type="multi"  />
+    <image name="TextField.borderLeft_1.png" type="multi"  />
+    <image name="TextField.borderRight_1.png" type="multi"  />
+    <image name="TextField.borderTop_1.png" type="multi"  />
+    <image name="TextField.borderTopL_1.png" type="multi"  />
+    <image name="TextField.borderTopR_1.png" type="multi"  />
+    <theme name="Theme">
+        <border key=".border" type="image" i1=".borderTop_1.png" i2=".borderBottom_1.png" i3=".borderLeft_1.png" i4=".borderRight_1.png" i5=".borderTopL_1.png" i6=".borderTopR_1.png" i7=".borderBottomL_1.png" i8=".borderBottomR_1.png" i9=".borderCenter_1.png" />
+        <val key="@commandBehavior" value="Side" />
+        <val key="@defaultCommandImage" value="pass.png" />
+        <val key="@formTransitionOut" value="fade" />
+        <val key="@includeNativeBool" value="true" />
+        <val key="@largeMaskImage" value="maskb.png 3" />
+        <val key="@maskImage" value="mask.png" />
+        <val key="@sideMenuImage" value="Add-01.png" />
+        <val key="@tintColor" value="0" />
+        <border key="BackCommand.border" type="imageH" i1="back-btn-big@2x_left.png" i2="back-btn-big@2x_right.png" i3="back-btn-big@2x_center.png" />
+        <val key="BackCommand.marUnit" value="2,2,2,2" />
+        <val key="BackCommand.margin" value="0,0,1,1" />
+        <val key="BackCommand.padUnit" value="2,2,2,2" />
+        <val key="BackCommand.padding" value="1,2,3,2" />
+        <border key="BackCommand.press#border" type="imageH" i1="back_left_pressed.png" i2="back_right_pressed.png" i3="back_center_pressed.png" />
+        <val key="BackCommand.press#marUnit" value="2,2,2,2" />
+        <val key="BackCommand.press#margin" value="0,0,1,1" />
+        <val key="BackCommand.press#padUnit" value="2,2,2,2" />
+        <val key="BackCommand.press#padding" value="1,2,3,2" />
+        <border key="BackCommand.sel#border" type="imageH" i1="back-btn-big@2x_left.png" i2="back-btn-big@2x_right.png" i3="back-btn-big@2x_center.png" />
+        <val key="BackCommand.sel#marUnit" value="2,2,2,2" />
+        <val key="BackCommand.sel#margin" value="0,0,1,1" />
+        <val key="BackCommand.sel#padUnit" value="2,2,2,2" />
+        <val key="BackCommand.sel#padding" value="1,2,3,2" />
+        <border key="Button.border" type="image" i1="Button.borderTop_2.png" i2="Button.borderBottom_2.png" i3="Button.borderLeft_2.png" i4="Button.borderRight_2.png" i5="Button.borderTopL_2.png" i6="Button.borderTopR_2.png" i7="Button.borderBottomL_2.png" i8="Button.borderBottomR_2.png" i9="Button.borderCenter_2.png" />
+        <val key="Button.dis#bgColor" value="0" />
+        <border key="Button.dis#border" type="image" i1="Button.dis#borderTop_1.png" i2="Button.dis#borderBottom_1.png" i3="Button.dis#borderLeft_1.png" i4="Button.dis#borderRight_1.png" i5="Button.dis#borderTopL_1.png" i6="Button.dis#borderTopR_1.png" i7="Button.dis#borderBottomL_1.png" i8="Button.dis#borderBottomR_1.png" i9="Button.dis#borderCenter_1.png" />
+        <val key="Button.dis#derive" value="Button.press" />
+        <val key="Button.dis#fgColor" value="0" />
+        <val key="Button.fgColor" value="ffffff" />
+        <border key="Button.press#border" type="image" i1="Button.press#borderTop_1.png" i2="Button.press#borderBottom_1.png" i3="Button.press#borderLeft_1.png" i4="Button.press#borderRight_1.png" i5="Button.press#borderTopL_1.png" i6="Button.press#borderTopR_1.png" i7="Button.press#borderBottomL_1.png" i8="Button.press#borderBottomR_1.png" i9="Button.press#borderCenter_1.png" />
+        <val key="Button.press#fgColor" value="ffffff" />
+        <val key="Button.press#transparency" value="0" />
+        <border key="Button.sel#border" type="image" i1="Button.borderTop_2.png" i2="Button.borderBottom_2.png" i3="Button.borderLeft_2.png" i4="Button.borderRight_2.png" i5="Button.borderTopL_2.png" i6="Button.borderTopR_2.png" i7="Button.borderBottomL_2.png" i8="Button.borderBottomR_2.png" i9="Button.borderCenter_2.png" />
+        <val key="Button.sel#fgColor" value="ffffff" />
+        <val key="Button.sel#transparency" value="0" />
+        <val key="Button.transparency" value="0" />
+        <border key="DataSheet.border" type="image" i1="DataSheet.borderTop_1.png" i2="DataSheet.borderBottom_1.png" i3="DataSheet.borderLeft_1.png" i4="DataSheet.borderRight_1.png" i5="DataSheet.borderTopL_1.png" i6="DataSheet.borderTopR_1.png" i7="DataSheet.borderBottomL_1.png" i8="DataSheet.borderBottomR_1.png" i9="DataSheet.borderCenter_1.png" />
+        <val key="DataSheet.padUnit" value="2,2,2,2" />
+        <val key="DataSheet.padding" value="1,2,1,1" />
+        <val key="FollowText.align" value="4" />
+        <val key="FollowText.fgColor" value="ffffff" />
+        <font key="FollowText.font" type="system" face="0" style="0" size="8" />
+        <val key="FollowText.margin" value="0,0,0,0" />
+        <val key="FollowText.padding" value="0,0,0,0" />
+        <val key="FollowText.transparency" value="0" />
+        <val key="FollowTitle.align" value="4" />
+        <val key="FollowTitle.fgColor" value="ffffff" />
+        <font key="FollowTitle.font" type="system" face="0" style="1" size="16" />
+        <val key="FollowTitle.margin" value="0,0,0,0" />
+        <val key="FollowTitle.padding" value="0,0,0,0" />
+        <val key="FollowTitle.textDecoration" value="8" />
+        <val key="FollowTitle.transparency" value="0" />
+        <val key="Followers.align" value="4" />
+        <border key="Followers.border" type="image" i1="Followers.borderTop_1.png" i2="Followers.borderBottom_1.png" i3="Followers.borderLeft_1.png" i4="Followers.borderRight_1.png" i5="Followers.borderTopL_1.png" i6="Followers.borderTopR_1.png" i7="Followers.borderBottomL_1.png" i8="Followers.borderBottomR_1.png" i9="Followers.borderCenter_1.png" />
+        <val key="Followers.padUnit" value="2,0,2,0" />
+        <val key="Followers.padding" value="1,1,0,0" />
+        <val key="Following.align" value="4" />
+        <border key="Following.border" type="image" i1="Following.borderTop_1.png" i2="Following.borderBottom_1.png" i3="Following.borderLeft_1.png" i4="Following.borderRight_1.png" i5="Following.borderTopL_1.png" i6="Following.borderTopR_1.png" i7="Following.borderBottomL_1.png" i8="Following.borderBottomR_1.png" i9="Following.borderCenter_1.png" />
+        <val key="Following.padUnit" value="2,0,2,0" />
+        <val key="Following.padding" value="1,1,0,0" />
+        <val key="Form.bgImage" value="bg-gunmetal@2x_tile.png" />
+        <val key="Form.bgType" value="2" />
+        <val key="GrayLabel.fgColor" value="cccccc" />
+        <font key="GrayLabel.font" type="system" face="0" style="1" size="8" />
+        <val key="GrayLabel.textDecoration" value="8" />
+        <val key="GrayLabel.transparency" value="0" />
+        <border key="GreenButton.border" type="image" i1="GreenButton.borderTop_1.png" i2="GreenButton.borderBottom_1.png" i3="GreenButton.borderLeft_1.png" i4="GreenButton.borderRight_1.png" i5="GreenButton.borderTopL_1.png" i6="GreenButton.borderTopR_1.png" i7="GreenButton.borderBottomL_1.png" i8="GreenButton.borderBottomR_1.png" i9="GreenButton.borderCenter_1.png" />
+        <val key="GreenButton.derive" value="Button" />
+        <val key="GreenButton.fgColor" value="ffffff" />
+        <border key="GreenButton.press#border" type="image" i1="GreenButton.press#borderTop_1.png" i2="GreenButton.press#borderBottom_1.png" i3="GreenButton.press#borderLeft_1.png" i4="GreenButton.press#borderRight_1.png" i5="GreenButton.press#borderTopL_1.png" i6="GreenButton.press#borderTopR_1.png" i7="GreenButton.press#borderBottomL_1.png" i8="GreenButton.press#borderBottomR_1.png" i9="GreenButton.press#borderCenter_1.png" />
+        <val key="GreenButton.press#derive" value="Button" />
+        <val key="GreenButton.press#fgColor" value="ffffff" />
+        <val key="GreenButton.press#transparency" value="0" />
+        <border key="GreenButton.sel#border" type="image" i1="GreenButton.borderTop_1.png" i2="GreenButton.borderBottom_1.png" i3="GreenButton.borderLeft_1.png" i4="GreenButton.borderRight_1.png" i5="GreenButton.borderTopL_1.png" i6="GreenButton.borderTopR_1.png" i7="GreenButton.borderBottomL_1.png" i8="GreenButton.borderBottomR_1.png" i9="GreenButton.borderCenter_1.png" />
+        <val key="GreenButton.sel#derive" value="Button" />
+        <val key="GreenButton.sel#fgColor" value="ffffff" />
+        <val key="GreenButton.sel#transparency" value="0" />
+        <val key="GreenButton.transparency" value="0" />
+        <val key="Label.bgColor" value="0" />
+        <val key="Label.fgColor" value="ff00" />
+        <val key="Label.transparency" value="0" />
+        <val key="Line.bgImage" value="details-separator@2x.png" />
+        <val key="Line.bgType" value="29" />
+        <val key="Line.transparency" value="0" />
+        <val key="Link.fgColor" value="3333ff" />
+        <font key="Link.font" type="system" face="0" style="0" size="0" />
+        <val key="Link.transparency" value="0" />
+        <val key="LogoLabel.derive" value="Container" />
+        <val key="LogoLabel.padUnit" value="0,0,2,0" />
+        <val key="LogoLabel.padding" value="0,29,0,0" />
+        <border key="MultiButton.border" type="image" i1="MultiButton.borderTop_2.png" i2="MultiButton.borderBottom_2.png" i3="MultiButton.borderLeft_2.png" i4="MultiButton.borderRight_2.png" i5="MultiButton.borderTopL_2.png" i6="MultiButton.borderTopR_2.png" i7="MultiButton.borderBottomL_2.png" i8="MultiButton.borderBottomR_2.png" i9="MultiButton.borderCenter_2.png" />
+        <val key="MultiButton.margin" value="0,0,0,0" />
+        <val key="PersonPanel.bgImage" value="bg-mesh@2x_tile.jpg" />
+        <val key="PersonPanel.bgType" value="2" />
+        <val key="PersonPanel.derive" value="Container" />
+        <val key="SideCommand.align" value="1" />
+        <val key="SideCommand.derive" value="TableTitleLabel.sel" />
+        <val key="SideCommand.fgColor" value="ffffff" />
+        <font key="SideCommand.font" type="system" face="0" style="1" size="0" />
+        <val key="SideCommand.margin" value="2,2,1,1" />
+        <val key="SideCommand.padding" value="8,8,0,0" />
+        <val key="SideCommand.press#derive" value="SideCommand.sel" />
+        <val key="SideCommand.sel#derive" value="SideCommand" />
+        <val key="SideCommand.sel#fgColor" value="000000" />
+        <val key="SideCommand.textDecoration" value="0" />
+        <val key="SideCommand.transparency" value="0" />
+        <val key="TableTitleLabel.align" value="4" />
+        <border key="TableTitleLabel.border" type="image" i1="TableTitleLabel.borderTop_2.png" i2="TableTitleLabel.borderBottom_2.png" i3="TableTitleLabel.borderLeft_2.png" i4="TableTitleLabel.borderRight_2.png" i5="TableTitleLabel.borderTopL_2.png" i6="TableTitleLabel.borderTopR_2.png" i7="TableTitleLabel.borderBottomL_2.png" i8="TableTitleLabel.borderBottomR_2.png" i9="TableTitleLabel.borderCenter_2.png" />
+        <val key="TableTitleLabel.fgColor" value="ffffff" />
+        <font key="TableTitleLabel.font" type="system" face="0" style="1" size="0" />
+        <val key="TableTitleLabel.padUnit" value="2,2,2,2" />
+        <val key="TableTitleLabel.padding" value="1,1,2,3" />
+        <val key="TableTitleLabel.press#derive" value="TableTitleLabel.sel" />
+        <val key="TableTitleLabel.sel#derive" value="TableTitleLabel" />
+        <val key="TableTitleLabel.sel#fgColor" value="ffff00" />
+        <font key="TableTitleLabel.sel#font" type="system" face="0" style="1" size="0" />
+        <val key="TableTitleLabel.transparency" value="0" />
+        <val key="Tabs.transparency" value="0" />
+        <border key="TextArea.border" type="image" i1="TextField.borderTop_1.png" i2="TextField.borderBottom_1.png" i3="TextField.borderLeft_1.png" i4="TextField.borderRight_1.png" i5="TextField.borderTopL_1.png" i6="TextField.borderTopR_1.png" i7="TextField.borderBottomL_1.png" i8="TextField.borderBottomR_1.png" i9="TextField.borderCenter_1.png" />
+        <val key="TextArea.fgColor" value="ffffff" />
+        <border key="TextArea.press#border" type="image" i1="TextField.borderTop_1.png" i2="TextField.borderBottom_1.png" i3="TextField.borderLeft_1.png" i4="TextField.borderRight_1.png" i5="TextField.borderTopL_1.png" i6="TextField.borderTopR_1.png" i7="TextField.borderBottomL_1.png" i8="TextField.borderBottomR_1.png" i9="TextField.borderCenter_1.png" />
+        <val key="TextArea.press#fgColor" value="ffffff" />
+        <border key="TextArea.sel#border" type="image" i1="TextField.borderTop_1.png" i2="TextField.borderBottom_1.png" i3="TextField.borderLeft_1.png" i4="TextField.borderRight_1.png" i5="TextField.borderTopL_1.png" i6="TextField.borderTopR_1.png" i7="TextField.borderBottomL_1.png" i8="TextField.borderBottomR_1.png" i9="TextField.borderCenter_1.png" />
+        <val key="TextArea.sel#fgColor" value="ffffff" />
+        <border key="TextField.border" type="image" i1="TextField.borderTop_1.png" i2="TextField.borderBottom_1.png" i3="TextField.borderLeft_1.png" i4="TextField.borderRight_1.png" i5="TextField.borderTopL_1.png" i6="TextField.borderTopR_1.png" i7="TextField.borderBottomL_1.png" i8="TextField.borderBottomR_1.png" i9="TextField.borderCenter_1.png" />
+        <val key="TextField.fgColor" value="ffffff" />
+        <border key="TextField.press#border" type="image" i1="TextField.borderTop_1.png" i2="TextField.borderBottom_1.png" i3="TextField.borderLeft_1.png" i4="TextField.borderRight_1.png" i5="TextField.borderTopL_1.png" i6="TextField.borderTopR_1.png" i7="TextField.borderBottomL_1.png" i8="TextField.borderBottomR_1.png" i9="TextField.borderCenter_1.png" />
+        <val key="TextField.press#fgColor" value="ffffff" />
+        <border key="TextField.sel#border" type="image" i1="TextField.borderTop_1.png" i2="TextField.borderBottom_1.png" i3="TextField.borderLeft_1.png" i4="TextField.borderRight_1.png" i5="TextField.borderTopL_1.png" i6="TextField.borderTopR_1.png" i7="TextField.borderBottomL_1.png" i8="TextField.borderBottomR_1.png" i9="TextField.borderCenter_1.png" />
+        <val key="TextField.sel#fgColor" value="ffffff" />
+        <val key="Title.align" value="4" />
+        <val key="Title.fgColor" value="ffffff" />
+        <font key="Title.font" type="ttf" face="0" style="1" size="16" name="segoescb.ttf" family="SegoeScript-Bold" sizeSettings="2" actualSize="12.0" />
+        <val key="Title.textDecoration" value="0" />
+        <val key="Title.transparency" value="0" />
+        <val key="TitleArea.align" value="4" />
+        <border key="TitleArea.border" type="image" i1="TitleArea.borderTop_2.png" i2="TitleArea.borderBottom_2.png" i3="TitleArea.borderLeft_2.png" i4="TitleArea.borderRight_2.png" i5="TitleArea.borderTopL_2.png" i6="TitleArea.borderTopR_2.png" i7="TitleArea.borderBottomL_2.png" i8="TitleArea.borderBottomR_2.png" i9="TitleArea.borderCenter_2.png" />
+        <val key="TitleArea.fgColor" value="ffffff" />
+        <font key="TitleArea.font" type="system" face="0" style="1" size="16" />
+        <val key="TitleArea.textDecoration" value="8" />
+        <border key="TitleCommand.border" type="imageH" i1="nav-bar@2x_button_left.png" i2="nav-bar@2x_button_right.png" i3="nav-bar@2x_button_center.png" />
+        <val key="TitleCommand.marUnit" value="0,2,0,2" />
+        <val key="TitleCommand.margin" value="0,0,1,1" />
+        <val key="TitleCommand.padUnit" value="2,2,2,2" />
+        <val key="TitleCommand.padding" value="1,2,2,2" />
+        <border key="TitleCommand.press#border" type="imageH" i1="button_left_pressed.png" i2="back_right_pressed.png" i3="back_center_pressed.png" />
+        <val key="TitleCommand.press#marUnit" value="0,2,0,2" />
+        <val key="TitleCommand.press#margin" value="0,0,1,1" />
+        <val key="TitleCommand.press#padUnit" value="2,2,2,2" />
+        <val key="TitleCommand.press#padding" value="1,2,2,2" />
+        <border key="TitleCommand.sel#border" type="imageH" i1="nav-bar@2x_button_left.png" i2="nav-bar@2x_button_right.png" i3="nav-bar@2x_button_center.png" />
+        <val key="TitleCommand.sel#marUnit" value="0,2,0,2" />
+        <val key="TitleCommand.sel#margin" value="0,0,1,1" />
+        <val key="TitleCommand.sel#padUnit" value="2,2,2,2" />
+        <val key="TitleCommand.sel#padding" value="1,2,2,2" />
+        <border key="evenRow.border" type="image" i1="evenRow.borderTop_2.png" i2="evenRow.borderBottom_2.png" i3="evenRow.borderLeft_2.png" i4="evenRow.borderRight_2.png" i5="evenRow.borderTopL_2.png" i6="evenRow.borderTopR_2.png" i7="evenRow.borderBottomL_2.png" i8="evenRow.borderBottomR_2.png" i9="evenRow.borderCenter_2.png" />
+        <val key="evenRow.derive" value="oddRow" />
+        <val key="evenRow.transparency" value="0" />
+        <val key="oddRow.align" value="4" />
+        <val key="oddRow.bgColor" value="0" />
+        <border key="oddRow.border" type="image" i1="oddRow.borderTop_1.png" i2="oddRow.borderBottom_1.png" i3="oddRow.borderLeft_1.png" i4="oddRow.borderRight_1.png" i5="oddRow.borderTopL_1.png" i6="oddRow.borderTopR_1.png" i7="oddRow.borderBottomL_1.png" i8="oddRow.borderBottomR_1.png" i9="oddRow.borderCenter_1.png" />
+        <val key="oddRow.derive" value="Label" />
+        <val key="oddRow.fgColor" value="0" />
+        <val key="oddRow.transparency" value="0" />
+        <val key="press#derive" value="TableTitleLabel.sel" />
+        <val key="smallRedLabel.bgColor" value="0" />
+        <val key="smallRedLabel.fgColor" value="ff0000" />
+        <font key="smallRedLabel.font" type="system" face="0" style="0" size="8" />
+        <val key="smallRedLabel.textDecoration" value="0" />
+        <val key="smallRedLabel.transparency" value="0" />
+    </theme>
+    <image name="TitleArea.borderBottom_2.png" type="multi"  />
+    <image name="TitleArea.borderBottomL_2.png" type="multi"  />
+    <image name="TitleArea.borderBottomR_2.png" type="multi"  />
+    <image name="TitleArea.borderCenter_2.png" type="multi"  />
+    <image name="TitleArea.borderLeft_2.png" type="multi"  />
+    <image name="TitleArea.borderRight_2.png" type="multi"  />
+    <image name="TitleArea.borderTop_2.png" type="multi"  />
+    <image name="TitleArea.borderTopL_2.png" type="multi"  />
+    <image name="TitleArea.borderTopR_2.png" type="multi"  />
+</resource>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="About" cloudDestinationProperty="About" layout="BorderLayout" borderLayoutAbsoluteCenter="true" title="About" >
+  <component type="SpanLabel" name="SpanLabel" cloudDestinationProperty="SpanLabel" uiid="" >
+    <layoutConstraint value="Center" />
+    <custom name="text" type="java.lang.String" value="" />
+  </component>
+  <component type="Container" name="Container" cloudDestinationProperty="Container" >
+    <layoutConstraint value="North" />
+    <component type="Label" name="Label" cloudDestinationProperty="Label" text="" >
+    </component>
+  </component>
+  <component type="Container" name="Container1" cloudDestinationProperty="Container1" layout="FlowLayout" flowLayoutFillRows="true" flowLayoutAlign="4" flowLayoutValign="4" >
+    <layoutConstraint value="South" />
+    <component type="Label" name="Label1" cloudDestinationProperty="Label1" uiid="TableTitleLabel" text="by: Farouq Abubakar Bahago" >
+    </component>
+  </component>
+<command name="Back" icon="back.png" id="12" action="$Back" backCommand="true" /></component>

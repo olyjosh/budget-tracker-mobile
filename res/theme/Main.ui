@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Main" cloudDestinationProperty="Main" scrollableY="false" layout="BorderLayout" borderLayoutAbsoluteCenter="false" title="New" >
+  <component type="ComponentGroup" name="ComponentGroup" cloudDestinationProperty="ComponentGroup" scrollableY="true" >
+    <layoutConstraint value="Center" />
+    <component type="Container" name="Container" cloudDestinationProperty="Container" layout="BoxLayout" boxLayoutAxis="Y" >
+      <component type="Label" name="Label" cloudDestinationProperty="Label" text="Name" >
+      </component>
+      <component type="TextField" name="userf" cloudBoundProperty="text" cloudDestinationProperty="TextField" text="" maxSize="20" >
+      </component>
+      <component type="Label" name="avail" cloudDestinationProperty="avail" uiid="smallRedLabel" text="" >
+      </component>
+    </component>
+    <component type="Container" name="Container1" cloudDestinationProperty="Container" layout="BoxLayout" boxLayoutAxis="Y" >
+      <component type="Label" name="Label" cloudDestinationProperty="Label" text="Password" >
+      </component>
+      <component type="TextField" name="passf" cloudBoundProperty="text" cloudDestinationProperty="TextField" text="" constraint="65536" maxSize="20" >
+      </component>
+    </component>
+    <component type="Container" name="Container2" cloudDestinationProperty="Container" layout="BoxLayout" boxLayoutAxis="Y" >
+      <component type="Label" name="Label" cloudDestinationProperty="Label" text="Confirm password" >
+      </component>
+      <component type="TextField" name="confF" cloudBoundProperty="text" cloudDestinationProperty="TextField" text="" constraint="65536" maxSize="20" >
+      </component>
+      <component type="Container" name="Container5" cloudDestinationProperty="Container5" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="4" flowLayoutValign="4" >
+        <component type="Label" name="notMatch" cloudDestinationProperty="notMatch" uiid="smallRedLabel" text="" >
+        </component>
+      </component>
+    </component>
+    <component type="Container" name="Container6" cloudDestinationProperty="Container6" layout="BoxLayout" boxLayoutAxis="Y" >
+      <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="Starting Capital" >
+      </component>
+      <component type="TextField" name="capitalf" cloudBoundProperty="text" cloudDestinationProperty="TextField" text="0.00" constraint="5" maxSize="12" >
+      </component>
+    </component>
+    <component type="Container" name="Container3" cloudDestinationProperty="Container" layout="BoxLayout" boxLayoutAxis="Y" >
+      <component type="Label" name="Label" cloudDestinationProperty="Label" text="Description" >
+      </component>
+      <component type="TextArea" name="descrF" cloudBoundProperty="text" cloudDestinationProperty="descF" text="" maxSize="100" rows="5" >
+      </component>
+    </component>
+    <component type="Container" name="Container4" cloudDestinationProperty="Container4" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="4" flowLayoutValign="4" >
+      <component type="Button" name="Button" cloudDestinationProperty="Button" uiid="GreenButton" text="Create" icon="pass.png" >
+      </component>
+    </component>
+  </component>
+<command name="Back" icon="back.png" id="11" action="$Back" backCommand="true" /><command name="About" icon="infooo.png" id="17" action="About" backCommand="false" /></component>
